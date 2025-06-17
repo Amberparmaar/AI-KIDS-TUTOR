@@ -1,0 +1,15 @@
+[project]
+name = "ai-tutor-kids"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "dotenv>=0.9.9",
+    "duckduckgo-search>=8.0.4",
+    "openai-agents>=0.0.17",
+    "python-dotenv>=1.0.0",
+    "pyttsx3>=2.98",
+    "speechrecognition>=3.14.3",
+    "streamlit>=1.45.1",
+]
